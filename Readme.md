@@ -1,10 +1,10 @@
-C++ Learning Project 🚀
-This repository contains C++ programs covering arrays, vectors, pointers, encapsulation, and interfaces.
+# **C++ Learning Project** 🚀  
 
-📂 Project Structure
-graphql
-Copy
-Edit
+This repository contains C++ programs covering **arrays, vectors, pointers, encapsulation, and interfaces**.  
+
+## **📂 Project Structure**  
+
+```
 D:.
 |   main.cpp
 |   Readme.md
@@ -15,20 +15,20 @@ D:.
 +---pointer             # Pointer usage
 +---encapsulation       # Encapsulation in C++
 +---interface           # Interfaces in C++
-💻 How to Run
-Compile and run using a C++ compiler (e.g., g++):
+```
 
-sh
-Copy
-Edit
+## **💻 How to Run**  
+Compile and run using a C++ compiler (e.g., g++):  
+```sh
 g++ array-operations/operationsarray.cpp -o array-operations/operationsarray.exe
 ./array-operations/operationsarray.exe
-Or use runningScript.sh to execute all programs.
+```
 
-🛠 Requirements
-C++ Compiler (g++, MSVC, Clang)
+Or use `runningScript.sh` to execute all programs.  
 
-Any code editor (VS Code, CLion, etc.)
+## **🛠 Requirements**  
+- C++ Compiler (g++, MSVC, Clang)  
+- Any code editor (VS Code, CLion, etc.)  
 
-📞 Contact
-For any questions, feel free to reach out! 😊
+## **📞 Contact**  
+For any questions, feel free to reach out! 😊  
